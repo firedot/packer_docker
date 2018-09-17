@@ -54,5 +54,5 @@ Run the following line:
 packer build template.json
 ````
 This line will generate a Docker image based on that repo: https://hub.docker.com/r/firedot/xenial/ 
-The image will be under the filename: xenial.tar
+The image will be under the filename: **xenial.tar**
 
