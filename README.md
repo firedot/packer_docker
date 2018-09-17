@@ -51,7 +51,7 @@ Go to the cloned repo dir.
 Run the following line: 
 
 ````
-packer build template.json
+packer build docker_template.json
 ````
 This line will generate a Docker image based on that repo: https://hub.docker.com/r/firedot/xenial/ 
 The image will be under the filename: **xenial.tar**
